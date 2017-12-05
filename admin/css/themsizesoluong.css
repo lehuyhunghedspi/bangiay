@@ -1,0 +1,67 @@
+body {
+	background-color:#F2F4F4;
+	
+}
+
+.bangsizesoluong th, td{
+	 border: 1px solid black;border-collapse: collapse;
+	  text-align: center;
+	  white-space: nowrap;
+	  height: 20px;
+    width: 50px;
+}
+.soluongthemmoi{
+	 padding:0px;
+	  margin:0px;
+	height: 100%;
+    width:  100%;
+}
+.themsize{
+	 padding:2px;
+	  margin:0px;
+	height: 28px;
+    width:  20px;
+	
+}
+.button_submit{
+	margin:5px;
+	 padding:5px;
+}
+.thongtinchung{
+	background-color:#FDFEFE;
+}
+.divsizesoluong{
+	background-color:#FDFEFE;
+}
+#result{
+	padding:7px 7px;background-color:#FDFEFE ;
+}
+
+
+/* khu vuc cho hinh anh
+
+*/
+
+
+.anhminhoa {
+	width:200px;
+	position: relative;
+	display: inline-block;
+}
+
+.anhminhoa:hover .editicon {
+	display: block;
+}
+
+.editicon {
+	padding-top: 7px;	
+	padding-right: 7px;
+	position: absolute;
+	right: 0;
+	top: 0;
+	display: none;
+}
+
+.editicon a {
+	color: #000;
+}

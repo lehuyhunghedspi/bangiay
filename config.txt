@@ -1,0 +1,16 @@
+Main Hosting Details
+Control panel username	b33_20983983
+Control panel password	admin1ad1
+Control panel URL		cpanel.byethost33.com
+MySQL username		b33_20983983
+MySQL password		**********
+MySQL hostname		sql307.byethost33.com
+databasename 		bangiay
+FTP username		b33_20983983
+FTP password		**********
+FTP host name		ftp.byethost33.com
+
+
+Your Website URL's
+Home page
+http://gothong.byethost33.com
